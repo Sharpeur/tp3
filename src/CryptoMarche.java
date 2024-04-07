@@ -47,7 +47,7 @@ public class CryptoMarche {
 	for (int i =0; i < this.portefeuilles.size(); i++)
 	{
 		if(this.portefeuilles.get(i).getMonnaie().equals(monnaie))
-			cap += this.portefeuilles.get(i).getMontant();
+			cap += this.portefeuilles.get(i).getMontant()* this.portefeuilles.get(i).getMonnaie().getValeurDeJeton();
 	}
 
         return cap;
