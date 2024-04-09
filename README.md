@@ -1,12 +1,12 @@
-**Nom :** FRERET
+Nom : Viez
 
-**Groupe :** B1
+Groupe : B1 Rémi
 
-**Année :** 1
+Année : 1ere
 
-**IUT Le Havre - Cours GIT**
+IUT Le Havre - Cours GIT
 
-### Compte-rendu TP3 Introduction GIT
+Compte-rendu TP1 Introduction GIT
 
 Dans ce TP on apprend à travailler avec git.
 
